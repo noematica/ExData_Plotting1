@@ -1,5 +1,7 @@
 ## Introduction
 
+NB: I understand that the assignment calls for 8 files in the root. I chose to split off the data loading and massaging into its own file to avoid repetition. 
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
